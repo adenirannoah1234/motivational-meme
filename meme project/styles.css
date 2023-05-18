@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+
+.meme-challenge{
+    border: 5px solid white;
+}
+.ade-gbenro{
+    width: 50px;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+
+.pose-one{
+     font-family: 'Lobster', cursive;
+     text-transform: uppercase;
+     color: white;
+     text-align: center;
+     display: inline-block;
+     text-align: justify;
+    white-space: nowrap;
+    margin-right: 30%;
+
+}
